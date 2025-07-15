@@ -1,0 +1,68 @@
+h1{
+    color: #1c78c3;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+}
+li{
+    padding-bottom: 10px; 
+}
+.hobbie{
+    border-radius: 15px;
+    width: 300px;
+    height: 200px;
+    margin: 40px;
+}
+
+table{
+    border: solid;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+td{
+    border-style:solid;
+
+}
+
+th{
+    border: solid;
+    background-color: cyan;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+
+.imagem{
+    width: 300px;
+    height: 200px;
+}
+
+.paises{
+    text-align: center;
+    padding: 5px;
+    font-family: fantasy;
+}
+a{
+    margin: 40px;
+    font-size: 20px;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: fantasy;
+    background-color: #1c78c3;
+    color: white;
+}
+#mensagem{
+    text-align: center;
+    font-size: 25px;
+    font-family: fantasy;
+
+}
